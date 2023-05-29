@@ -10,6 +10,27 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        alumni_photo: 'rafael-caran-fernandes.png',
+        alumni_name: 'Rafael Caran Fernandes',
+        alumni_resume: 'Systematic review of artificial intelligence methods applied to cardiac arrhythmia classification, 2020, Federal University of ABC (Final work for the Biomedical Engineering degree)',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        alumni_photo: 'aline-geannaccini-ralho.png',
+        alumni_name: 'Aline Geannaccini Ralho',
+        alumni_resume: 'Tracking of Surgical Instrumentation in the Brazilian Unified Health System. , 2020, Federal University of ABC (Final work for the Biomedical Engineering degree)',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        alumni_photo: 'renata-silva-dos-santos.png',
+        alumni_name: 'Renata Silva dos Santos',
+        alumni_resume: 'A systematic review of diagnosis and monitoring of atrial fibrillation using wearable devices. , 2020, Federal University of ABC (Final work for the Biomedical Engineering degree)',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('alumnis', alumnis, {});
