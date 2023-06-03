@@ -18,7 +18,7 @@ module.exports = {
         updatedAt: new Date()
       },
       {
-        undergrad_photo: 'maria-rduarda-tramontina-antunes.png',
+        undergrad_photo: 'maria-eduarda-tramontina-antunes.png',
         undergrad_name: 'Maria Eduarda Tramontina Antunes',
         undergrad_resume: 'My participation in the group is as a student of Scientific Initiation in the area of cardiac arrhythmias and the understanding of atrial electrical activity propagation focused on atrial fibrillation. Atrial Fibrillation (AF) is one of the most common forms of arrhythmia , and, although there are clinical researches, mathematical models, and other technologies available, the mechanism of the AF is still not entirely understood. My project is related to that. Using the openCARP software and its python framework – carputils – the goal is to run some simulations using pre-existing mathematical/computational models, such as Countermanche’s; firstly simulating healthy hearts, then introducing some irregularities, in order to better understand the propagation of atrial electrical activity. Education: Undergraduate student at Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering. Hobbies: music and musical instruments, sports, traveling, books, series and movies',
         createdAt: new Date(),
