@@ -4,6 +4,13 @@ module.exports = {
   up: async (queryInterface, _Sequelize) => {
     const undergrad = [
       {
+        undergrad_photo: 'isabella-rizzi-rios.png',
+        undergrad_name: 'Isabella Rizzi Rios',
+        undergrad_resume: 'My research is mainly motivated by the search for a non-invasive method to identify cardiac arrhythmias, whose project emphasis is on atrial fibrillation. Therefore, this research is contextualized in the iECG project, a tool that allows estimating electrical activity in the heart in a non-invasive way. I am responsible for the segmentation of 3D morphology from medical images, generating surfaces and meshes that serve as a basis for the study of the direct and inverse solution of electrocardiography. Hobbies: reading, sports, dance, arts, traveling. Scholarship: Programa Pesquisando Desde o Primeiro Dia (PDPD) – UFABC.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
         undergrad_photo: 'felipe-braga-fonseca.png',
         undergrad_name: 'Felipe Braga Fonseca',
         undergrad_resume: 'My participation in the group is as a student of Researching From the First Day (PDPD). Hobbies: Sports, animes, watch Flamengo (Brazilian soccer team) playing, learn and read. Education: Graduate student of Interdisciplinar Bachelor of Science and Technology at UFABC',
