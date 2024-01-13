@@ -18,10 +18,6 @@ Alumni.init({
       primaryKey: true,
       allowNull: false,
     },
-    experience: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
     alumni_photo: {
       type: DataTypes.STRING,
       allowNull: false,
@@ -30,39 +26,7 @@ Alumni.init({
       type: DataTypes.STRING,
       allowNull: false,
     },
-    nationality: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    age: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    email: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    phone: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    curriculum: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    advisor: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
     alumni_resume: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    hobbies: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    education: {
       type: DataTypes.STRING,
       allowNull: false,
     },
