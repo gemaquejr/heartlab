@@ -13,11 +13,11 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      alumni_photo: {
+      undergrad_photo: {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      alumni_name: {
+      undergrad_name: {
         type: Sequelize.STRING,
         allowNull: false,
       },
@@ -45,7 +45,7 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      alumni_resume: {
+      undergrad_resume: {
         type: Sequelize.STRING,
         allowNull: false,
       },
