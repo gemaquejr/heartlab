@@ -31,11 +31,11 @@ UndergradStudents.init({
     type: DataTypes.STRING,
     allowNull: false,
   },
-  alumni_photo: {
+  undergrad_photo: {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  alumni_name: {
+  undergrad_name: {
     type: DataTypes.STRING,
     allowNull: false,
   },
@@ -63,7 +63,7 @@ UndergradStudents.init({
     type: DataTypes.STRING,
     allowNull: false,
   },
-  alumni_resume: {
+  undergrad_resume: {
     type: DataTypes.STRING,
     allowNull: false,
   },
