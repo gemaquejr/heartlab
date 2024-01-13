@@ -177,6 +177,22 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        experience: 'undergraduate_final_project',
+        undergrad_photo: 'camila-rocha-restivo.png',
+        undergrad_name: 'Camila Rocha Restivo',
+        nationality: 'Brazilian',
+        age: '21',
+        email: '',
+        phone: '',
+        curriculum: '',
+        advisor: '',
+        undergrad_resume: 'My participation in the group is as a student of Scientific Initiation in the area of cardiac arrhythmias, specifically atrial fibrillation. My project aims to contribute to validate a customized method of estimating the electrical potentials in the torso from the atrial signals and the 3D geometries of the atria and torso, using the direct Forward Solution of electrocardiology. Therefore, realistic computational models of AF and patients with AF are used. Validating a method of estimating the signals on the torso during AF from the signals of the atrium and the three-dimensional (3D) geometries of the torso and atria, would contribute to highlight the importance of the BSPM system and its spatio-temporal correlation seen by the torso of the atrial activity during AF, for diffusion in the clinic. Invasive commercial systems could, in the future, use this idea and project the signals on the torso from the heart signals, for training clinicians and encouraging the use of non-invasive methods.',
+        hobbies:['traveling', 'series', 'movies', 'cooking', 'checking out new food'],
+        education: 'Graduate student at UFABC and Scientific Initiation at FAPESP.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('undergradStudents', undergrad, {});
