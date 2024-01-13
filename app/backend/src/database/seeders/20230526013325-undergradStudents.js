@@ -275,6 +275,22 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        experience: 'internship',
+        undergrad_photo: 'rodrigo-hashizume-da-luz.png',
+        undergrad_name: 'Rodrigo Hashizume da Luz',
+        nationality: 'Brazilian',
+        age: '29',
+        email: 'rodrigo.hashizume@aluno.ufabc.edu.br',
+        phone: '+5511975927116',
+        curriculum: '',
+        advisor: '',
+        undergrad_resume: 'My activities contribute to the acquisition and processing of images of a heart, enabling the construction of 3D geometries, used in optical and electrical mapping.',
+        hobbies: ['video games', 'gym', 'studying new things', 'finance'],
+        education: 'Undergraduate student at Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('undergradStudents', undergrad, {});
