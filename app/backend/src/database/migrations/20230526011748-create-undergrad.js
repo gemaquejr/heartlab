@@ -9,15 +9,51 @@ module.exports = {
         autoIncrement: true,
         primaryKey: true,
       },
-      undergrad_photo: {
+      experience: {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      undergrad_name: {
+      alumni_photo: {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      undergrad_resume: {
+      alumni_name: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      nationality: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      age: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      email: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      phone: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      curriculum: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      advisor: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      alumni_resume: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      hobbies: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      education: {
         type: Sequelize.STRING,
         allowNull: false,
       },
