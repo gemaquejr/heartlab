@@ -174,6 +174,8 @@ module.exports = {
         curriculum: '',
         advisor: 'João Lameu da Silva Junior',
         undergrad_resume: 'My activities are oriented towards better understanding hemodynamics in coronary arteries affected by atherosclerosis. For this, we must do numerical modeling and simulation using the Computational Fluid Dynamics (CFD) technique, which uses mathematical models and fluid simulation software to analyze complex hemodynamic patterns in different conditions of a coronary artery. Both healthy and compromised.',
+        hobbies:['playing video games', 'gym', 'learning new things'],
+        education: 'Undergraduate student at the Federal University of ABC (UFABC), studying Bachelor of Science and Technology.',
         createdAt: new Date(),
         updatedAt: new Date()
       },
