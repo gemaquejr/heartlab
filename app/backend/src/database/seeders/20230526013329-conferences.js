@@ -513,6 +513,60 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2012',
+        conference: 'SALINET JÚNIOR, J. L.; STAFFORD, P. ; NG, G. A. ; SCHLINDWEIN, F. S. . Distinct Patterns in the most common clinical arrhythmia: what is the mechanism?. In: XXIII Congresso Brasileiro de Engenharia Biomédica, 2012, Porto de Galinhas. XXIII Congresso Brasileiro de Engenharia Biomédica, 2012. p. 1-6.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'SALINET JÚNIOR, J. L.; MADEIRO, J. P. V. ; MARQUES, J. A. ; CORTEZ, P. C. ; STAFFORD, P. J. ; NG, G. A. ; SCHLINDWEIN, FERNANDO S. . Removing ventricular influence from intracardiac atrial fibrillation electrograms. In: XXIII Congresso Brasileiro de Engenharia Biomédica, 2012, Porto de Galinhas. XXIII Congresso Brasileiro de Engenharia Biomédica, 2012. p. 1984-1988.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'VANHEUSDEN, F. J. ; SALINET JÚNIOR, J. L. ; NICOLSON, W. B. ; MACCANN, G. P. ; NG, G. A. ; SCHLINDWEIN, FERNANDO S. . Patient-Specific Three-dimensional Torso Models for Analysing Cardiac Activity. In: Computing in Cardiology Conference (CinC), 2012, Krakow.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'SALINET JÚNIOR, J. L.; ARUJA, J. ; Brown, P. D. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; NG, G.A . Trajectory Propagation of Dominant Frequency Areas using High Density Noncontact Mapping Reveals Distinct Behaviour in Persistent Atrial Fibrillation. In: Heart Rhythm 2012: 33rd Annual Scientific Sessions, 2012, Boston. Heart Rhythm. Maryland Heights: ELSEVIER, 2012. v. 9. p. S4-S5.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'SALINET JÚNIOR, J. L.; MARQUES, J. A. ; TUAN, J. H. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; NG, G.A . A New Approach to Identify and Measure Fractionated Atrial Electrograms. In: Heart Rhythm 2012: 33rd Annual Scientific Sessions, 2012, Boston. Heart Rhythm. Maryland Heights: ELSEVIER, 2012. v. 9. p. S365-S366.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'SALINET JÚNIOR, J. L.; TUAN, J. H. ; SANDILANDS, ALISTAIR J. ; MADEIRO, J. P. V. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; NG, G. A. . Distinctive Patterns of Dominant Frequency Trajectory Behavior exist in Persistent Atrial Fibrillation: Characterisation of Spatio-temporal Instability. In: Heart Rhythm Congress (Young Investigation Competition), 2012, Birmingham. Europace EP. Oxford: Oxford University Press, 2012. v. 14. p. iv3-iv3.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'VANHEUSDEN, F. J. ; SALINET JÚNIOR, J. L. ; NICOLSON, W. B. ; MACCANN, G. P. ; NG, G. A. ; SCHLINDWEIN, F. S. . Structured 3D Finite Element Torso Models for Cardiac Activity Analysis. In: Bioengineering Society Conference, 2012, Oxford. Bioengineering Society Conference, 2012.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'MADEIRO, J. P. V. ; CORTEZ, P. C. ; MARQUES, J. A. ; SALINET JÚNIOR, J. L. ; PEIXOTO Jr, A. A. ; SCHLINDWEIN, FERNANDO S. . A Heart Rate Variability Based Approach to Analyse Frailty in Older Adults. In: International Conference on Medical Signal & Information Processing (MEDSIP), 2012, Liverpool. MEDSIP Proceedings, 2012.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2012',
+        conference: 'MARQUES, J. A. ; MADEIRO, J. P. V. ; CORTEZ, P. C. ; SALINET JÚNIOR, J. L. ; SCHLINDWEIN, FERNANDO S. . Spectrogram Analysis to Interpret Long Term Variability of Fetal Heart Rate. In: International Conference on Medical Signal & Information Processing (MEDSIP), 2012, Liverpool. MEDSIP Proceedings, 2012.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
