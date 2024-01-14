@@ -315,6 +315,30 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2016',
+        conference: 'ALMEIDA, T. P. ; CHU, G. ; LI, X. ; Salinet, J. L. ; DASTAGIR, N. ; BELL, M. J. ; VANHEUSDEN, F. J. ; TUAN, J. H. ; STAFFORD, P. J. ; NG, G. ANDRÉ ; SCHLINDWEIN, F. S. . Contributing Factors Concerning Inconsistencies in Persistent Atrial Fibrillation Ablation Outcomes. In: Computers in Cardiology (Computing in Cardiology), 2016, Vancouver. Computers in Cardiology (CinC), 2016. v. 1. p. 1.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2016',
+        conference: 'Salinet, J. L.; CAMARGO, E. D. L. B. ; MENEGHINI, C. E. B. ; CESTARI, I. A. . Plataforma para mapeamento de biopotenciais do torso em alta densidade. In: XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016, Foz do Iguaçu. Anais do XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016. p. 1678-1682.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2016',
+        conference: 'ALMEIDA, T. P. ; CHU, G. ; BELL, M. J. ; LI, X. ; Salinet, J. L. ; DASTAGIR, N. ; TUAN, JIUN H. ; STAFFORD, P. J. ; NG, G. ANDRÉ ; SCHLINDWEIN, F. S. . The spatio-temporal behavior of atrial electrogram fractionation in persistent atrial fibrillation. In: XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016, Foz do Iguaçu. Anais do XXV edição do Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016. v. 1. p. 1674-1677.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2016',
+        conference: 'PEREIRA, V. C. ; CAMARGO, E. D. L. B. ; Salinet, J. L. ; SORIANO, D. C. . Análise por quantificação de recorrência em tempo de execução utilizando LABVIEW: caracterização do ECG. In: XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016, Foz do Iguaçu. Anais do XXV edição do Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016. v. 1. p. 1686-1689.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
