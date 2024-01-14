@@ -21,7 +21,7 @@ Journals.init({
     type: DataTypes.STRING,
     allowNull: false,
   },
-  conference: {
+  journal: {
     type: DataTypes.STRING,
     allowNull: false,
   },
