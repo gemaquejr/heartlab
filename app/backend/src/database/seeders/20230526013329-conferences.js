@@ -603,6 +603,12 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2002',
+        conference: 'RATZAT, E. L. ; MORI, G. M. ; Salinet Jr., J. L. ; CAULKINS, K. W. ; JUNKES, L. N. ; FURLANETTO, R. . Análise de situação logística visando o benchmarking: o caso da indústria catarinense. In: Encontro Nacional de Engenharia de Produção, 2002, Curitiba. Encontro Nacional de Engenharia de Produção, 2002.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
