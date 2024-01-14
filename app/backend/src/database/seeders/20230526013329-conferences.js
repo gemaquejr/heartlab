@@ -489,6 +489,30 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2013',
+        conference: 'ALMEIDA, T. P. ; SALINET JÚNIOR, J. L. ; CHU, G. ; NG, G. A. ; SCHLINDWEIN, FERNANDO S. . Different definitions of complex fractionated atrial electrograms do not concur with clinical perspective. In: Computing in Cardiology Conference (CinC), 2013, Zaragoza.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2013',
+        conference: 'SALINET JÚNIOR, J. L.; TUAN, J. H. ; STAFFORD, P. J. ; SCHLINDWEIN, FERNANDO S. ; NG, G. A. . High Density Noncontact Mapping of Persistent Atrial Fibrillation: Spatiotemporal Characteristics of Dominant Frequency and Organization Index during Sequential Mapping. In: Heart Rhythm 2013: 34th Annual Scientific Sessions, 2013, Denver. Heart Rhythm. New York: ELSEVIER, 2013. v. 10. p. S1-S2.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2013',
+        conference: 'ALMEIDA, T. P. ; SALINET JÚNIOR, J. L. ; CHU, G. ; TUAN, JIUN H. ; SCHLINDWEIN, FERNANDO S. ; NG, G. A. . Atrial Electrogram Complexity as an Objective Measurement of Fractionation. In: Heart Rhythm 2013: 34th Annual Scientific Sessions, 2013, Denver. Heart Rhythm. New York: ELSEVIER, 2013. v. 10. p. S2-S2.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2013',
+        conference: 'ALMEIDA, T. P. ; SALINET JÚNIOR, J. L. ; CHU, G. ; SCHLINDWEIN, FERNANDO S. ; NG, G. A. . Atrial electrogram complexity as a clinical instrument for measuring temporal fractionation variability during atrial fibrillation. In: Heart Rhythm Congress, 2013, Birmingham. Europace EP. Oxford: Oxford University Press, 2013. v. 15. p. iv31-iv35.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
