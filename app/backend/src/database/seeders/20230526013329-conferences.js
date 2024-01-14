@@ -579,6 +579,18 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2010',
+        conference: 'SALINET JÚNIOR, J. L.; AHMAD, A. ; BROWN, P. D. ; STAFFORD, P. ; NG, G. ANDRE ; SCHLINDWEIN, F. S. . Three-dimensional Frequency Mapping from the Non-contact Unipolar Electrograms in Atrial Fibrillation. In: Computers in Cardiology (Computing in Cardiology), 2010, Belfast.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2010',
+        conference: 'SALINET JÚNIOR, J. L.; TUAN, J. H. ; BROWN, P. D. ; STAFFORD, P. ; NG, G. ANDRE ; SCHLINDWEIN, F. S. . The Spatial and Temporal Variability of 3D Dominant Frequency Mapping from 2048 Noncontact Unipolar Electrograms in Human Atrial Fibrillation. In: Heart Rhythm Congress, 2010, Birmingham. EP Europace. Oxford: Oxford University Press, 2010. v. 12. p. ii22.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
