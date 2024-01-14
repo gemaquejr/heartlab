@@ -99,6 +99,96 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2019',
+        conference: 'SALINET, JOÃO; PAREDES, J. G. S. ; MAZZETO, M. ; MARQUES, V. G. ; SAMESIMA, N. ; PASTORE, C. A. ; CESTARI, I. A. . Non-Invasive Characterization of Cardiac Activation Patterns: Contributions of Body Surface Potential Mapping in Healthy Volunteers. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'MARQUES, V. G. ; RODRIGO, M. ; GUILLEM, M. S. ; SALINET, JOÃO . Non-invasive Characterization of Atrial Arrhythmic Driving Mechanisms in Computer Models. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'MARQUES, V. G. ; RODRIGO, M. ; GUILLEM, M. S. ; SALINET, JOÃO . Effect of Reducing the Number of Leads in Body Surface Potential Mapping of Computer Models of Atrial Arrhythmias. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'VANHEUSDEN, F. J. ; CHU, G. ; LI, X. ; SALINET, JOÃO ; STAFFORD, P. ; Ng, G Andre ; SCHLINDWEIN, F. S. . Are atrial fibrillation highest dominant frequency (HDF) areas the source of dominant excitation patterns? A left atrial panoramic view. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'MADEIRO, J. P. V. ; BARRETO, D. ; MARQUES, J. A. L. ; SALINET, JOÃO . Evaluating Mathematical Models for Morphological Classification of the QRS Complex. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'SILVA, D. P. ; WATANABE, W. T. ; LOPES, W. S. ; RODRIGUES, H. ; RODRIGUES, R. ; SALINET, JOÃO ; BISSACO, M. A. S. ; GOROSO, G. . Monitoring remote of biomedical signals. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'WATANABE, W. T. ; SILVA, D. P. ; LOPES, W. S. ; RODRIGUES, H. ; RODRIGUES, R. ; SALINET, JOÃO ; BISSACO, M. A. S. ; GOROSO, G. . Monitoring remote of heart rate variability: arrhythmia detection. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'SIMS, J. ; SALINET, JOÃO ; GUTIERREZ, M. . Directional Analysis of 2D Cardiac Motion Slices Using the Discrete Helmholtz Hodge Decomposition. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'SIMS, J. ; CASTALDONI, R. ; SALINET, JOÃO ; ASSUNCAO-JR, A. N. ; ARAUJO-FILHO, J. A. ; VICTOR, R. ; MORAES, T. ; LEMOS, A. P. ; TARASSOUTI, F. ; VIEIRA, M. ; NOMURA, C. H. . Statistical and Image Processing Tools for Predicting Severity of Calcific Degenerative Aortic Valve Stenosis. In: 46th Computing in Cardiology (CinC) Conference, 2019, Cingapura.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'LI, X. ; CHU, G. ; ALMEIDA, T. P. ; Salinet, J. ; MISTRY, A. R. ; VALI, Z. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Machine learning classifiers for predicting catheter ablation responses using non-contact electrograms during persistent atrial fibrillation. In: European Heart Rhythm Association 2019 (EHRA 2019), 2019, Lisbon. EP Europace, 2019. v. 21.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'Salinet, J.; MOURA, F. S. ; SANTOS, P. M. N. ; BOR-SENG-SHU, E. ; SALINET, A. S. M. . Plataforma de Avaliação de Autorregulação Cerebral. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA E IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'FIRMINO, J. V. P. ; Salinet, J. ; MOURA, F. S. ; PANERAI, R. ; SALINET, A. S. M. . Índice de Autorregulação Cerebral pelo método Autorregressivo com Média Móvel: resultados preliminares. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA E IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'MARQUES, V. G. ; RODRIGO, M. ; GUILLEM, M. S. ; Salinet, J. . Effects of Body Surface Potential Mapping Lead Layouts in the Analysis of Atrial Signals. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA E IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'MARQUES, V. G. ; RODRIGO, M. ; GUILLEM, M. S. ; Salinet, J. . Characterization of Atrial Arrhythmic Mechanisms in Body Surface Potential Mapping Computer Models. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA E IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2019',
+        conference: 'SALINET, JOÃO; MOURA, F. S. ; SANTOS, P. M. N. ; BOR-SENG-SHU, E. ; SALINET, A. S. M. . Cerebral Autoregulation Open Source Multiplatform: A Preliminary Validation. In: 9th International Meeting on Cerebral Haemodynamic Regulation (CARNet meeting), 2019, Leuven, Bélgica.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
