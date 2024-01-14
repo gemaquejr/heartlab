@@ -609,6 +609,12 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '1999',
+        conference: 'SALINET JÚNIOR, J. L.; OJEDA, R. . Estudo e Calibração de Esfigmomanômetros. In: IX Seminário de Iniciação Científica da Universidade Federal de Santa Catarina., 1999, Florianópolis. IX Seminário de Iniciação Científica da Universidade Federal de Santa Catarina., 1999.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
