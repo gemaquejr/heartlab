@@ -237,6 +237,84 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2017',
+        conference: 'Salinet, J. L.; SCHLINDWEIN, F. S. ; STAFFORD, P. ; ALMEIDA, T. P. ; VANHEUSDEN, F. J. ; GUILLEM, M. S. ; Ng, G Andre . Persistent Atrial Fibrillation Hierarchical Activation: from Highest DF Sites to Wave Fractionation at the Boundaries. In: 44th annual scientific meeting of Computing in Cardiology (CinC), 2017, Rennes.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'PANICO, K. ; WEBER, G. ; RAMOS, M. S. C. ; Salinet, J. L. . Electrophysiological Effects on Renal Ischaemia/Reperfusion-Induced Cardiac Hypertrophy. In: 44th annual scientific meeting of Computing in Cardiology (CinC), 2017, Rennes.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'Salinet, J. L.; MARQUES, V. G. ; MAZZETO, M. ; CAMARGO, E. D. L. B. ; PASTORE, C. A. ; CESTARI, I. A. . A 64-lead Body Surface Potential Mapping System. In: 44th annual scientific meeting of Computing in Cardiology (CinC), 2017, Rennes.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'ALMEIDA, T. P. ; SCHLINDWEIN, F. S. ; Salinet, J. L. ; XIN, L. ; CHU, G. ; TUAN, J. H. ; STAFFORD, P. ; Ng, G Andre ; SORIANO, D. C. . Deterministic structures in fractionated atrial electro-grams during human persistent atrial fibrillation. In: 44th annual scientific meeting of Computing in Cardiology (CinC), 2017, Rennes.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'Salinet, J.; MARQUES, V. G. ; MAZZETO, M. ; CAMARGO, E. D. L. B. ; PASTORE, C. A. ; CESTARI, I. A. . Development of Body Surface Mapping Equipment for Guiding Cardiac Arrhythmias Diagnoses and Treatments. In: 8º Simpósio de Instrumentação e Imagens Médicas (SIIM) e o 7º Simpósio de Processamento de Sinais (SPS), 2017, São Bernardo do Campo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'ALMEIDA, T. P. ; SCHLINDWEIN, F. S. ; Salinet, J. ; LI, X. ; CHU, G. ; TUAN, JIUN H. ; STAFFORD, P. ; ANDRÉ NG, G. ; SORIANO, D. C. . Estabilidade temporal dos atributos de recorrência em eletrogramas atriais provenientes de pacientes com fibrilação atrial crônica. In: 8º Simpósio de Instrumentação e Imagens Médicas (SIIM) e o 7º Simpósio de Processamento de Sinais (SPS), 2017, São Bernardo do Campo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'RUIZ, R. ; OLIVEIRA, H. J. Q. ; Salinet, J. ; ECHEIMBERG, J. ; BISSACO, M. . Impacto do WhatsApp e Google Hangouts sobre a qualidade das imagens médicas transmitidas. In: 8º Simpósio de Instrumentação e Imagens Médicas (SIIM) e o 7º Simpósio de Processamento de Sinais (SPS), 2017, São Bernardo do Campo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'ALMEIDA, T. P. ; SCHLINDWEIN, F. S. ; Salinet, J. L. ; LI, X. ; CHU, G. ; TUAN, J. H. ; STAFFORD, P. ; Ng, G Andre ; SORIANO, D. C. . Recurrence quantification analysis for characterizing atrial electrogram fractionation in human chronic atrial fibrillation. In: 7th International Symposium on Recurrence Plots, 2017, São Paulo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'PEREIRA, V. C. ; CAMARGO, E. D. L. B. ; Salinet, J. L. ; SORIANO, D. C. . Recurrence quantification analysis in real time in Labview: simulated ECG evaluation. In: 7th International Symposium on Recurrence Plots, 2017, São Paulo. 7th International Symposium on Recurrence Plots, 2017.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'TREVIZAN, T. ; Salinet, J. . Análise de Mapas Eletrofisiológicos Utilizados no Tratamento de Pacientes com Fibrilação Atrial. In: 8º Simpósio de Instrumentação e Imagens Médicas (SIIM) e o 7º Simpósio de Processamento de Sinais (SPS), São Bernardo do Campo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'YOSHIDA, L. A. ; SALINET, A. S. M. ; Salinet, J. . Sincronização do fluxo sanguíneo cerebral e pressão arterial para cálculo de autorregulação cerebral. In: 8º Simpósio de Instrumentação e Imagens Médicas (SIIM) e o 7º Simpósio de Processamento de Sinais (SPS), 2017, São Bernardo do Campo.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'LI, X. ; CHU, G. ; ALMEIDA, T. P. ; Salinet, J. L. ; DASTAGIR, N. ; VANHEUSDEN, F. J. ; MISTRY, A. R. ; VALI, Z. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Improving target identification of persistent atrial fibrillation ablation using simultaneous intracardiac mapping. In: Heart Rhythm Congress, 2017, Birmingham. EP Europace, 2017. v. 19. p. i14-i14.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2017',
+        conference: 'LI, X. ; CHU, G. ; ALMEIDA, T. P. ; Salinet, J. L. ; DASTAGIR, N. ; MISTRY, A. R. ; VALI, Z. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Characteristics of ablated rotors in terminating persistent atrial fibrillation using non-contact mapping. In: Heart Rhythm Congress, 2017, Birmingham. EP Europace, 2017. v. 19. p. i3-i3.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
