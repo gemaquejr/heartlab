@@ -591,6 +591,12 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2009',
+        conference: 'SALINET JÚNIOR, J. L.; COSTA, E. T. . Design and Construction of transmission and reception circuits for ultrasound multi-element transducer. In: World Congress on Medical Physics and Biomedical Engineering, 2009, Munique. WC 2009, IFMBE Proceedings, 2009. v. 25. p. 693-696.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
