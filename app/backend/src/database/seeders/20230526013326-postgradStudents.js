@@ -2,7 +2,7 @@
 
 module.exports = {
   up: async (queryInterface, _Sequelize) => {
-    const undergrad = [
+    const postgrad = [
       {
         experience: 'phd_students',
         postgrad_photo: 'jimena-gabriela-siles-paredes.png',
@@ -117,7 +117,7 @@ module.exports = {
       },
     ];
 
-    return queryInterface.bulkInsert('postgradStudents', undergrad, {});
+    return queryInterface.bulkInsert('postgradStudents', postgrad, {});
   },
 
   down: async (queryInterface, _Sequelize) => {
