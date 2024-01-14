@@ -435,6 +435,60 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2014',
+        conference: 'SALINET, JOÃO L.; TUAN, J. H. ; SALINET, A. S. M. ; LI, X. ; STAFFORD, P. ; NG, G. A. ; SCHLINDWEIN, F. S. . Distinctive patterns of dominant frequency trajectory behaviour in persistent atrial fibrillation: spatio-temporal characterisation. In: Computers in Cardiology (Computing in Cardiology), 2014, Cambridge, MA, USA.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'LI, X. ; SALINET, JOÃO L. ; ALMEIDA, T. P. ; VANHEUSDEN, F. J. ; CHU, G. ; NG, G. A. ; SCHLINDWEIN, F. S. . A platform to guide catheter ablation of persistent atrial fibrillation using dominant frequency mapping. In: Computers in Cardiology (Computing in Cardiology), 2014, Cambridge, MA, USA.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'DASTAGIR, N. ; SALINET, JOÃO L. ; VANHEUSDEN, F. J. ; ALMEIDA, T. P. ; LI, X. ; CHU, G. ; NG, G. A. ; SCHLINDWEIN, F. S. . Spatiotemporal behavior of high dominant frequency during persistent atrial fibrillation. In: Computers in Cardiology (Computing in Cardiology), 2014, Cambridge, MA, USA.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'Salinet, J. L.; MARQUES, J. A. ; SALINET, A. S. M. ; Ng, G Andre ; SCHLINDWEIN, F. S. . Nonlinearity Characterization and Entropy Analysis of Intracardiac Atrial Electrogram Signals. In: Congresso Brasileiro de Engenharia Biomédica, 2014, Uberlândia. Congresso Brasileiro de Engenharia Biomédica, 2014.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'Salinet, J. L.; Ng, G Andre ; SCHLINDWEIN, F. S. . Alternative Three-dimensional Frequency Mapping for Atrial Fibrillation Intracardiac Electrograms. In: 5º Simpósio de Processamento de Sinais da UNICAMP (SPS-UNICAMP’2014), 2014, Campinas.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'Salinet, J. L.; Ng, G Andre ; SCHLINDWEIN, F. S. . High Density Frequency Mapping of Human Intracardiac Persistent Atrial Fibrillation Electrograms. In: 5º Simpósio de Processamento de Sinais da UNICAMP (SPS-UNICAMP’2014), 2014, Campinas.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'ALMEIDA, T. P. ; CHU, G. ; VANHEUSDEN, F. J. ; LI, X. ; Salinet, J. L. ; TUAN, J. H. ; STAFFORD, P. J. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Investigating differences in complex fractionated atrial electrogram discrimination as performed by CARTO and NavX algorithms. In: Heart Rhythm Congress, 2014, Birmingham. EP Europace, 2014.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'DASTAGIR, N. ; CHU, G. ; VANHEUSDEN, F. J. ; Salinet, J. L. ; ALMEIDA, T. P. ; LI, X. ; STAFFORD, P. J. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Ablation for Persistent atrial fibrillation shrinks left atrial high dominant frequency areas. In: Heart Rhythm Congress, 2014, Birmingham. EP Europace: Heart Rhythm Congress Proceedings, 2014.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2014',
+        conference: 'JOHN, B. ; GANESAN, A. ; Salinet, J. L. ; SANDERS, P. . Acute release of stretch directly impacts spatiotemporal dynamics in atrial fibrillation. In: Asian-Pacific Heart Rhytm Scientific Session (APHRS), 2014, Nova Delhi. 7th Asian-Pacific Heart Rhytm Scientific Session (APHRS), 2014.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
