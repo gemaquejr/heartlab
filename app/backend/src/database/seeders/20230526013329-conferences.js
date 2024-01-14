@@ -567,6 +567,18 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2011',
+        conference: 'SALINET JÚNIOR, J. L.; BROWN, P. D. ; AHMAD, A. ; TUAN, J. H. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; NG, G. A. . High Density Noncontact Frequency Mapping Reveals Distinct Dominant Frequency Behaviour in Persistent Atrial Fibrillation. In: Heart Rhythm 2011: 32nd Annual Scientific Session, 2011, San Francisco. Heart Rhythm. New York: Elsevier, 2011. v. 8. p. S146-S146.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2011',
+        conference: 'SALINET JÚNIOR, J. L.; BROWN, P. D. ; P.D., LOHIYA ; BIDDER, S. J. ; STAFFORD, PETER J. ; SCHLINDWEIN, FERNANDO S. ; NG, G. A. . Evidence for cyclic temporal variability from high-frequency re-entrant circuits in persistent atrial fibrillation. In: Heart Rhythm Congress, 2011, Birmingham. Europace. Oxford: Oxford University Press, 2011. v. 13. p. iv20-iv24.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
