@@ -339,6 +339,102 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2015',
+        conference: 'Salinet, J. L.; GUILLEM, M. S. ; ALMEIDA, T. P. ; XIN, L. ; GOROSO, G. ; CHU, G. ; NG, G.A ; SCHLINDWEIN, F. S. . Drifting rotors prevalence is associated with dominant frequency reduction after persistent atrial fibrillation ablation. In: Computing in Cardiology, 2015, Nice.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'ALMEIDA, T. P.; CHU, G. ; Salinet, J. L. ; VANHEUSDEN, F. J. ; LI, X. ; TUAN, J. H. ; STAFFORD, P. J. ; NG, G. A. ; SCHLINDWEIN, F. S. . Unifying automated fractionated atrial electrograms classification using electroanatomical mapping systems in persistent atrial fibrillation studies. In: Computing in Cardiology, 2015, Nice.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'LI, X. ; CHU, G. ; ALMEIDA, T. P. ; VANHEUSDEN, F. J. ; DASTAGIR, N. ; Salinet, J. L. ; STAFFORD, P. J. ; NG, G. A. ; SCHLINDWEIN, F. S. . Investigation on Recurrent High Dominant Frequency Spatiotemporal Patterns during Persistent Atrial Fibrillation. In: Computing in Cardiology, 2015, Nice.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'DASTAGIR, N. ; LI, X. ; VANHEUSDEN, F. J. ; ALMEIDA, T. P. ; Salinet, J. L. ; CHU, G. ; STAFFORD, P. J. ; NG, G.A ; SCHLINDWEIN, F. S. . Combination of frequency and phase to characterize the spatiotemporal behaviour of cardiac waves during persistent atrial fibrillation. In: Computing in Cardiology, 2015, Nice.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'Freitas, E. B. ; Salinet, J. L. ; OLIVEIRA, H. J. Q. . A novel method for automatic standardization of digital electrocardiographs. In: Computing in Cardiology, 2015, Nice.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'DASTAGIR, N. ; LI, X. ; ALMEIDA, T. P. ; VANHEUSDEN, FREDERIQUE JOS ; SALINET, JOÃO ; CHU, G. ; STAFFORD, P. ; Ng, G Andre ; SCHLINDWEIN, F. S. . Effect of Filtering Atrial Electrograms on the Relationship of Phase and Dominant Frequency. In: Atrial Signals, 2015, Karlsruhe. Atrial Signals, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'SCHLINDWEIN, F. S. ; CHU, G. ; ALMEIDA, T. P. ; LI, X. ; DASTAGIR, N. ; VANHEUSDEN, F. J. ; Salinet, J. L. ; STAFFORD, P. J. ; NG, G.A . Frequency, phase and fractionation of atrial electrograms help guide AF ablation. In: Atrial Signals 2015, 2015, Karlsruhe. Atrial Signals, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'Salinet, J. L.; GUILLEM, M. S. ; ALMEIDA, T. P. ; XIN, L. ; CHU, G. ; VANHEUSDEN, F. J. ; DASTAGIR, N. ; NG, G.A ; SCHLINDWEIN, F. S. . Co-localised Drifting Rotors and Frequency Activity Followed by Activity Reduction after Persistent Atrial Fibrillation ablation. In: Atrial Signals 2015, 2015, Karlsruhe. Atrial Signals, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'ALMEIDA, T. P. ; CHU, G. ; Salinet, J. L. ; VANHEUSDEN, F. J. ; LI, X. ; DASTAGIR, N. ; TUAN, J. H. ; STAFFORD, P. J. ; NG, G.A ; SCHLINDWEIN, F. S. . Targeting Complex Fractionated Atrial Electrograms During Persistent Atrial Fibrillation Ablation: but which ones?. In: Atrial Signals 2015, 2015, Karlsruhe. Atrial Signals, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'XIN, L. ; CHU, G. ; ALMEIDA, T. P. ; VANHEUSDEN, F. J. ; Salinet, J. L. ; STAFFORD, P. J. ; NG, G.A ; SCHLINDWEIN, F. S. . Recurrent High Dominant Frequency Spatial Patterns in Atrial Fibrillation. In: Atrial Signals 2015, 2015, Karlsruhe. Atrial Signals, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'CHU, G. ; LI, X. ; VANHEUSDEN, F. J. ; ALMEIDA, T. P. ; Salinet, J. L. ; DASTAGIR, N. ; VARANASI, S. S. ; CHIN, S. H. ; SIDDIQUI, S. ; MAN, S. H. ; STAFFORD, P. ; SANDILANDS, A. J. ; SCHLINDWEIN, F. S. ; NG, G. A. . Cyclical Regions of Highest Dominant Frequency are Feasible Targets for Ablation in Persistent Atrial Fibrillation. In: American Heart Association (AHA) Scientific Sessions 2015, 2015, Orlando, Flórida. American Heart Association (AHA) Scientific Sessions 2015, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'ALMEIDA, T. P. ; CHU, G. ; Salinet, J. L. ; VANHEUSDEN, F. J. ; LI, X. ; TUAN, JIUN H. ; STAFFORD, P. ; NG, G. A. ; SCHLINDWEIN, F. S. . Differences in Fractionated Electrogram Detection: a Direct Quantitative Comparison Between Navx And Carto. In: Heart Rhythm Congress (HRC), 2015, Birmingham, UK. Europace EP, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'LI, X. ; CHU, G. ; ALMEIDA, T. P. ; VANHEUSDEN, F. J. ; DASTAGIR, N. ; Salinet, J. L. ; STAFFORD, P. ; NG, G. A. ; SCHLINDWEIN, F. S. . Recurrent High Dominant Frequency Patterns in Persistent Atrial Fibrillation. In: Heart Rhythm Congress (HRC), 2015, Birmingham, UK. Europace EP, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'DASTAGIR, N. ; Salinet, J. L. ; LI, X. ; VANHEUSDEN, F. J. ; ALMEIDA, T. P. ; CHU, G. ; STAFFORD, P. ; SCHLINDWEIN, F. S. ; NG, G. A. . Relationship of Phase Singularities and High Dominant Frequency Regions during Persistent Atrial Fibrillation in Humans. In: Heart Rhythm Congress (HRC), 2015, Birmingham, UK. Europace EP, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'CHU, G. ; LI, X. ; VANHEUSDEN, F. J. ; ALMEIDA, T. P. ; Salinet, J. L. ; DASTAGIR, N. ; VARANASI, S. S. ; CHIN, S. H. ; Siddiqui, M. S. ; MAN, S. H. ; STAFFORD, P. ; SANDILANDS, A. J. ; SCHLINDWEIN, F. S. ; NG, G. A. . Targeting Cyclical Highest Dominant Frequency in the Ablation of Persistent Atrial Fibrillation. In: Heart Rhythm Congress (HRC), 2015, Birmingham, UK. Europace EP, 2015.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2015',
+        conference: 'DASTAGIR, N. ; VANHEUSDEN, F. J. ; CHU, G. ; Salinet, J. L. ; LI, X. ; ALMEIDA, T. P. ; STAFFORD, P. J. ; SCHLINDWEIN, F. S. ; Ng, G Andre . Spatiotemporal Analysis of Phase and Frequency Dynamics in Human Persistent Atrial Fibrillation. In: American Heart Association Scientific Sessions, 2015, Orlando. Circulation, 2015. v. 132. p. A15890.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
