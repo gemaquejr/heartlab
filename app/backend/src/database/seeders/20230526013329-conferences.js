@@ -597,6 +597,12 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2008',
+        conference: 'ALBUQUERQUE, J.A.G. ; SALINET JÚNIOR, J. L. ; COSTA, E. T. . Sistema WEB para Simulação de Campo Acústico. In: Congresso Brasileiro de Engenharia Biomédica – CBEB, 2008, Salvador. XXI Congresso Brasileiro de Engenharia Biomédica, 2008. p. 1182-1185.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
