@@ -189,6 +189,54 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },
+      {
+        age: '2018',
+        conference: 'DUARTE, A. M. ; SALINET, JOÃO L. ; MIDORIKAWA, K. C. ; AZEVEDO, D. ; SALINET, A. S. M. . Implementing, validating and comparing the transfer function method for cerebral autoregulation analysis. In: 8th international meeting on Cerebral Haemodynamic Regulation (CARNet meeting), 2018, Oxford, UK.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'DUARTE, A. M. ; SALINET, A. S. M. ; MIDORIKAWA, K. C. ; AZEVEDO, D. ; Salinet, J. . Implementing transfer function analysis method and autoregulation index to assess cerebral autoregulation: a preliminary study. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018, Búzios.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'SILVA, B. F. G. ; TONG, B. G. C. ; SOUZA, P. D. S. ; Salinet, J. . IEEE Engineering in Medicine and Biology Society Student Chapter at UFABC: student opportunities and contributions. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018, Búzios.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'Salinet, J.; MARQUES, V. G. ; MAZZETO, M. ; CAMARGO, E. D. L. B. ; PASTORE, C. A. ; CESTARI, I. A. . Preliminary Validation of a 64-lead Body Surface Potential Mapping on Healthy Volunteers. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018, Búzios.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'MICHESKI, P. ; PAREDES, J. G. S. ; Salinet, J. . Product Certification Body versus Demand of Electro-medical Devices: the Brazilian scenario, limitations, disparity and opportunities. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'TREVIZAN, T. ; LI, X. ; SCHLINDWEIN, F. S. ; STAFFORD, P. J. ; Ng, G Andre ; Salinet, J. . Atrial fibrillation patterns are pre-processing method-based dependent. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018, Búzios.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'BEZERRA, A. S. ; ALMEIDA, T. P. ; MASE, M. ; RAVELLI, F. ; LI, X. ; CHU, G. ; Salinet, J. ; SORIANO, D. C. ; SCHLINDWEIN, FERNANDO S. ; TUAN, J. H. ; STAFFORD, P. J. ; YONEYAMA, T. . Time and frequency domain similarities of atrial activations during chronic atrial fibrillation. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        age: '2018',
+        conference: 'MARQUES, V. G. ; RODRIGO, M. ; GUILLEM, M. S. ; Salinet, J. . Preliminary Characterization of Atrial Arrhythmia Mechanisms on Body Surface Potential Mapping. In: XXVI Congresso Brasileiro de Engenharia Biomédica, 2018, Búzios.',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
     ];
 
     return queryInterface.bulkInsert('conferences', conferences, {});
