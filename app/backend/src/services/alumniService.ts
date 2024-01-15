@@ -1,7 +1,7 @@
-import User from '../database/models/alumni';
+import Alumni from '../database/models/alumni';
 
 export default class AlumniService {
-    public alumniModel = User;
+    public alumniModel = Alumni;
 
     public async getAlumnis() {
         const result = await this.alumniModel.findAll();
