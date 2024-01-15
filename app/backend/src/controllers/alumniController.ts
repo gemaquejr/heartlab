@@ -1,8 +1,8 @@
 import { Request, Response } from 'express';
-import UserService from '../services/alumniService';
+import AlumniService from '../services/alumniService';
 
 export default class AlumniController {
-    constructor(private alumniService = new UserService()) { }
+    constructor(private alumniService = new AlumniService()) { }
 
     async getAlumnis(_req: Request, res: Response) {
         try {
