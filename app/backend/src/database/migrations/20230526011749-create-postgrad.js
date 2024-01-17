@@ -2,7 +2,7 @@
 
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable('undergradStudents', {
+    await queryInterface.createTable('postgradStudents', {
       id: {
         type: Sequelize.INTEGER,
         allowNull: false,
@@ -46,7 +46,7 @@ module.exports = {
         allowNull: false,
       },
       postgrad_resume: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(1500),
         allowNull: false,
       },
       hobbies: {
