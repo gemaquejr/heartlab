@@ -14,7 +14,7 @@ module.exports = {
         curriculum: 'http://lattes.cnpq.br/6128749741736621',
         advisor: 'João Salinet',
         undergrad_resume: 'My research is mainly motivated by the search for a non-invasive method to identify cardiac arrhythmias, whose project emphasis is on atrial fibrillation. Therefore, this research is contextualized in the iECG project, a tool that allows estimating electrical activity in the heart in a non-invasive way. I am responsible for the segmentation of 3D morphology from medical images, generating surfaces and meshes that serve as a basis for the study of the direct and inverse solution of electrocardiography.',
-        hobbies:['reading', 'sports', 'dance', 'arts', 'traveling'],
+        hobbies: 'reading, sports, dance, arts, traveling',
         education: 'Programa Pesquisando Desde o Primeiro Dia (PDPD) – UFABC.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -30,7 +30,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Salinet',
         undergrad_resume: 'My participation in the research group is as a student in the Undergraduate Research Program, Researching Since Day One (PDPD), in the area of cardiac electrophysiology simulation, with a focus on atrial fibrillation (AF). AF is the most common sustained cardiac arrhythmia in clinical practice, significantly affecting patients’ quality of life. Therefore, attempting to understand the underlying mechanisms of this arrhythmic condition is of utmost importance, and one way to do that is through in silico simulations. In this context, my research project aims to simulate the mechanisms of AF in 3D computational models of atria using the openCARP software. openCARP is an open-source in silico cardiac electrophysiology simulator that allows simulations at the level of individual cells or even at the level of organs and has already been used by the group for simulations on 2D surfaces.',
-        hobbies:['reading', 'sports', 'watching anime', 'following Flamengo games (Brazilian football team)', 'learning'],
+        hobbies: 'reading, sports, watching anime, following Flamengo games (Brazilian football team), learning',
         education: 'Undergraduate student in the Interdisciplinary Bachelors Degree in Science and Technology at UFABC (Federal University of ABC).',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -46,7 +46,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Salinet',
         undergrad_resume: 'Researchers from the Federal University of ABC (UFABC) and the University of São Paulo (FMUSP) have developed the CAAos platform (Cerebral Autoregulation Assessment Open Source) to assess cerebral autoregulation, a physiological mechanism that controls cerebral blood flow (CBF) in response to variations in arterial blood pressure (ABP). The platform includes methods such as Transfer Function Analysis (TFA) and Autoregulation Index (ARI), as well as filtering and visualization tools. Technical documentation for these methods, including manuals and explanatory videos, is available to assist users in utilizing the platform. Recently, two new methods have been undergoing validation and integration into the CAAos platform: the ARI method modeled using the Autoregressive Moving Average technique (ARI-ARMA) and the non-invasive mean flow index (nMxa) method. My research and work within the group involve developing documentation for these methods, including technical manuals and explanatory videos, to facilitate their utilization in clinical centers. This step is crucial for promoting the use of the platform, which can contribute to multicenter studies in evaluating neurological disorders. It is believed that the CAAos platform, with its open-source code and technical documentation, can assist in establishing methodological guidelines for assessing cerebral circulation. This is an important objective for the group of researchers involved in the CARNet network.',
-        hobbies:['reading', 'watching anime', 'self-study', 'basketball', 'play multiple games', 'programming'],
+        hobbies: 'reading, watching anime, self-study, basketball, play multiple games, programming',
         education: 'Undergraduate student at the Federal University of ABC (UFABC), pursuing a Bachelors degree in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -62,7 +62,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My participation in the group is as a student of Scientific Initiation in the area of cardiac arrhythmias and the understanding of atrial electrical activity propagation focused on atrial fibrillation. Atrial Fibrillation (AF) is one of the most common forms of arrhythmia , and, although there are clinical researches, mathematical models, and other technologies available, the mechanism of the AF is still not entirely understood. My project is related to that. Using the openCARP software and its python framework – carputils – the goal is to run some simulations using pre-existing mathematical/computational models, such as Countermanche’s; firstly simulating healthy hearts, then introducing some irregularities, in order to better understand the propagation of atrial electrical activity.',
-        hobbies:['sports', 'traveling', 'music', 'musical instruments', 'books', 'series', 'movies'],
+        hobbies:'sports, traveling, music, musical instruments, books, series, movies',
         education: 'Undergraduate student at Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -78,7 +78,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'Although brain is the most responsible for the human living, this organ also is the most sensible one, which, to keep its functioning and health, has specifics amount of nutrients, blood flow, and pressure. One particular physiological mechanism to maintain these characteristics is the Cerebral Autoregulation (CA), which controls the cerebral blood flow (CBF) once there is a variation of the arterial blood pressure (ABP) due to activities as physical exercises or sleeping. To analyze the CA, techniques such as Transfer Function Analysis (TFA) and Autoregulation Index (ARI) are mathematical and processing signals methods to quantify how is the CA of a health or neurological subjects. My research is to study the CA through the platform CAAos (Cerebral Autoregulation Assessment Open Source) by applying a new method in the software. The Mx method is a mathematical technique which is commonly used in the scientific community and it has the function to evaluate the CA through the data of CBF velocity and ABP means, resulting an index that indicates how well is the subjects CA.',
-        hobbies:['reading', 'arts', 'movies', 'gym'],
+        hobbies:'reading, arts, movies, gym',
         education: 'Undergraduate student at Federal University of ABC (UFABC) of Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -94,7 +94,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Lameu da Silva Junior',
         undergrad_resume: 'Hello, world 🙂 ! I am participating in the group as a Scientific Initiation student. My research revolves around analyzing the process of thrombus formation in the left atrium appendage (LA) within patients suffering from atrial fibrillation (FA). To do that, I analyze the hemodynamics, biochemical, and electro-mechanical aspects of the disease using software of Computational Aided Design (CAD) to generate the geometry of a patients heart, and Computational Fluid Dynamics (CFD) to simulate the blood flow through a patients LA with AF and without AF, so I can compare both results and analyze parameters such as blood flow velocity, wall shear stress, strain rate, aggregation intensity of the platelets and others. I also work for a company focused on the cardiac rhythm management and electrophysiology study markets, which helps me integrate all the knowledge I get in my research and apply it to the real world.',
-        hobbies:['football', 'video games', 'learning about cardiac rhythm management'],
+        hobbies:'football, video games, learning about cardiac rhythm management',
         education: 'Undergraduate student at Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -110,7 +110,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: '',
-        hobbies:[],
+        hobbies: '',
         education: '',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -126,7 +126,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Lameu da Silva Junior',
         undergrad_resume: 'My participation in the research group is as a student of Scientific Initiation. I am part of a university program called “Pesquisando Desde o Primeiro Dia (PDPD)” which aims to bring incoming students into contact with research in the first year of their undergraduate studies. The research focuses on the study of four areas of the cardiovascular system: anatomy, electrophysiology, biomechanics and hemodynamics. Based on the study of these areas, my contribution to the group is focused on the production of materials for scientific dissemination to raise awareness about heart diseases, with emphasis on atrial fibrillation. These materials are being posted on an institutional platform for scientific dissemination. Additionally, my research involves the study of biofluid mechanics and Computational Fluid Dynamics (CFD). Therefore, the project also aims at learning computational simulations through Ansys Workbench software. The use of simulations contributes to the understanding of the phenomena of the heart.',
-        hobbies:[],
+        hobbies:'',
         education: 'Undergraduate student at the Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -142,7 +142,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: '',
-        hobbies:[],
+        hobbies:'',
         education: '',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -158,7 +158,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Salinet',
         undergrad_resume: 'I participate in the project as an undergraduate research student. My work involves assisting in improving and optimizing the experimental setup developed by the project. I utilize the electric and optical mapping data captured during the experiments and convert them into graphs and diagrams that aid in the interpretation of the results, using programming tools like MATLAB.',
-        hobbies:['reading', 'video games', 'studying'],
+        hobbies:'reading, video games, studying',
         education: 'Undergraduate student in Federal University of ABC (UFABC), studying Bachelors degree in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -174,7 +174,7 @@ module.exports = {
         curriculum: '',
         advisor: 'João Lameu da Silva Junior',
         undergrad_resume: 'My activities are oriented towards better understanding hemodynamics in coronary arteries affected by atherosclerosis. For this, we must do numerical modeling and simulation using the Computational Fluid Dynamics (CFD) technique, which uses mathematical models and fluid simulation software to analyze complex hemodynamic patterns in different conditions of a coronary artery. Both healthy and compromised.',
-        hobbies:['playing video games', 'gym', 'learning new things'],
+        hobbies: 'playing video games, gym, learning new things',
         education: 'Undergraduate student at the Federal University of ABC (UFABC), studying Bachelor of Science and Technology.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -190,7 +190,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My participation in the group is as a student of Scientific Initiation in the area of cardiac arrhythmias, specifically atrial fibrillation. My project aims to contribute to validate a customized method of estimating the electrical potentials in the torso from the atrial signals and the 3D geometries of the atria and torso, using the direct Forward Solution of electrocardiology. Therefore, realistic computational models of AF and patients with AF are used. Validating a method of estimating the signals on the torso during AF from the signals of the atrium and the three-dimensional (3D) geometries of the torso and atria, would contribute to highlight the importance of the BSPM system and its spatio-temporal correlation seen by the torso of the atrial activity during AF, for diffusion in the clinic. Invasive commercial systems could, in the future, use this idea and project the signals on the torso from the heart signals, for training clinicians and encouraging the use of non-invasive methods.',
-        hobbies:['traveling', 'series', 'movies', 'cooking', 'checking out new food'],
+        hobbies:'traveling, series, movies, cooking, checking out new food',
         education: 'Graduate student at UFABC and Scientific Initiation at FAPESP.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -206,7 +206,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'I have a great interest in learning and using knowledge for the development of the health area to improve the quality of life of people with technology, this motivated me to be a biomedical engineering student at UFABC and to work in clinical engineering in a hospital. I participate as an undergraduate work adviser researching specific equipment such as respirators and ECMO extracorporeal membrane oxygenation, which act in the restoration of the respiratory and cardiovascular system compromised by infections caused by pathologies, for example, COVID-19. Due to the great importance of the respiratory and cardiovascular systems that carry out gas exchange in the body, maintaining the concentration of oxygen in the blood is necessary for the metabolic reactions that occur in organs, tissues, and cells, especially in intensive care unit patients. Main interests: medical devices and equipment, medical imaging, rehabilitation, prostheses and orthotics, and biomaterials. Other participations: scientific initiation analysis and rehabilitation of spinal cord injury, medical equipment technician, precision mechanics technologist.',
-        hobbies:['traveling', 'music', 'movies', 'cooking', 'drawing'],
+        hobbies: 'traveling, music, movies, cooking, drawing',
         education: 'Graduate student at UFABC and Scientific Initiation at FAPESP.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -222,7 +222,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My participation in the group is as a Scientific Initiation student in the field of cardiology electrophysiology, cardiac signals processing and cardiac arrhythmias, specifically Atrial Fibrillation (AF). Due to the complexity of atrial fibrillation (AF) and the high sensitivity to errors by current commercial systems, making it difficult to characterize and locate arrhythmogenic sources for certain groups of patients with AF, it is important to develop research aimed at customizing techniques for AF, in special non-invasive diagnostic methods minimizing risks to patients. The objective of my project is to validate a customized method of estimating and mapping the electrical potentials in the atria from the torso signals and the 3D geometries of the atria and torso through the Inverse Problem of Electrocardiography. Realistic computational models of AF and patients with AF are used. Therefore, validating a method of estimating the signals in the atria during AF from the torso signals and three-dimensional (3D) geometries of the torso and atria would contribute to highlight the importance of noninvasive methods for diffusion in the clinic. Invasive commercial systems could, in the future, use this idea and project the signals on the heart from the torso signals, for training clinicians and encouraging the use of non-invasive methods.',
-        hobbies:['sports', 'traveling', 'series', 'movies'],
+        hobbies:'sports, traveling, series, movies',
         education: 'Undergraduate student at Federal University of ABC (UFABC) of Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -238,7 +238,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My participation in the group is as a student of undergraduate thesis mainly working on the steps of pre-processing, processing and analysis of cardiological signals, with the objective of understanding the best and most accurate methods of signal processing for this particular case, while aiming to reduce costs and better integrate different systems.',
-        hobbies:['reading', 'games', 'music', 'movies'],
+        hobbies: 'reading, games, music, movies',
         education: 'Undergraduate student at Federal University of ABC (UFABC) of Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -254,7 +254,7 @@ module.exports = {
         curriculum: '',
         advisor: 'John Sims',
         undergrad_resume: 'I am a biomedical engineering and neuroscience undergraduate, currently working with data science and deep learning in computer vision. I have experience in image preprocessing in the banking sector. Now my goals are aligned with the medical community, working at Hospital Albert Einstein, where we use deep learning for skin cancer classification with the aim of early detection of tumors and decreasing overload to the Brazilian primary care system health system. My latest project is my undergraduate thesis (final term paper) concerning vessel segmentation in corneal images, in which I trained a U-Net neural network to evaluate the progression/regression of vascularization in corneal tissue.',
-        hobbies: ['reading', 'traveling', 'series', 'swimming'],
+        hobbies: 'reading, traveling, series, swimming',
         education: 'Undergraduate student at Federal University of ABC (UFABC) – Bachelors degree in Science and Technology, Biomedical Engineering and Neuroscience.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -270,7 +270,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My participation in the group focuses on cardiac imaging diagnostic equipment, on the technical evaluation of the technologies available for acquiring images of the torso and heart. The main objective is to be able to use more accessible technologies that allow the formation of 3D images hybridized with ECGi.',
-        hobbies: ['series', 'cooking', 'Motorcycling'],
+        hobbies: 'series, cooking, Motorcycling',
         education: 'Radiology Technologist, Specialist in Computed Tomography and Magnetic Resonance Imaging, Specialist in Project Management, Bachelor of Science and Technology. Studying for a Bachelors degree in Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
@@ -286,7 +286,7 @@ module.exports = {
         curriculum: '',
         advisor: '',
         undergrad_resume: 'My activities contribute to the acquisition and processing of images of a heart, enabling the construction of 3D geometries, used in optical and electrical mapping.',
-        hobbies: ['video games', 'gym', 'studying new things', 'finance'],
+        hobbies: 'video games, gym, studying new things, finance',
         education: 'Undergraduate student at Federal University of ABC (UFABC) – Bachelor in Science and Technology and Biomedical Engineering.',
         createdAt: new Date(),
         updatedAt: new Date()
