@@ -18,7 +18,7 @@ module.exports = {
         allowNull: false,
       },
       alumni_resume: {
-        type: Sequelize.STRING(1000),
+        type: Sequelize.STRING(1500),
         allowNull: false,
       },
       createdAt: {

@@ -30,7 +30,7 @@ module.exports = {
         allowNull: false,
       },
       researchers_resume: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(1500),
         allowNull: false,
       },
       createdAt: {

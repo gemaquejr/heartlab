@@ -46,7 +46,7 @@ module.exports = {
         allowNull: false,
       },
       undergrad_resume: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(1500),
         allowNull: false,
       },
       hobbies: {
