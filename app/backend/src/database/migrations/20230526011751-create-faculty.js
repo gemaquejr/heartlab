@@ -29,8 +29,8 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      researchers_resume: {
-        type: Sequelize.STRING,
+      faculty_resume: {
+        type: Sequelize.STRING(2500),
         allowNull: false,
       },
       createdAt: {
