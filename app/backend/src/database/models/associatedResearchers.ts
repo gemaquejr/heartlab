@@ -48,7 +48,7 @@ AssociatedResearchers.init({
 }, {
     underscored: true,
     sequelize: db,
-    modelName: 'associatedResearchers',
+    modelName: 'associated_researchers',
     timestamps: false,
   });
 
