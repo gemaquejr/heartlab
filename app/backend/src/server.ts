@@ -6,7 +6,8 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 
 app.use('/alumnis', routes.AlumniRouter);
-app.use('/associated', routes.associatedRoute);
+app.use('/associated', routes.associatedRouter);
+app.use('/award', routes.awardRouter);
 
 app.listen(PORT, ()=> {
     console.log(`Server is running on port: ${PORT}`)

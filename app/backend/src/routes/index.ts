@@ -1,4 +1,5 @@
 import AlumniRouter from './alumniRoute';
-import associatedRoute from './associatedRoute';
+import associatedRouter from './associatedRoute';
+import awardRouter from './awardRoute';
 
-export default { AlumniRouter, associatedRoute };
+export default { AlumniRouter, associatedRouter, awardRouter };
