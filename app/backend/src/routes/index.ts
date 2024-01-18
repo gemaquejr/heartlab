@@ -1,3 +1,4 @@
 import AlumniRouter from './alumniRoute';
+import associatedRoute from './associatedRoute';
 
-export default { AlumniRouter };
+export default { AlumniRouter, associatedRoute };
