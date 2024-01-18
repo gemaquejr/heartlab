@@ -75,10 +75,10 @@ module.exports = {
       },
     ];
 
-    return queryInterface.bulkInsert('associatedResearchers', associatedResearchers, {});
+    return queryInterface.bulkInsert('associated_researchers', associatedResearchers, {});
   },
 
   down: async (queryInterface, _Sequelize) => {
-    await queryInterface.bulkDelete('associatedResearchers', null, {});
+    await queryInterface.bulkDelete('associated_researchers', null, {});
   }
 };
