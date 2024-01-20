@@ -10,6 +10,7 @@ app.use('/associated', routes.associatedRouter);
 app.use('/award', routes.awardRouter);
 app.use('/conference', routes.conferenceRouter);
 app.use('/faculty', routes.facultyRouter);
+app.use('/journal', routes.journalRouter);
 
 app.listen(PORT, ()=> {
     console.log(`Server is running on port: ${PORT}`)
