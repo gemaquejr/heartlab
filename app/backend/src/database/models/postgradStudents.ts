@@ -78,7 +78,7 @@ PostgradStudents.init({
 }, {
     underscored: true,
     sequelize: db,
-    modelName: 'postgradStudents',
+    modelName: 'postgrad_students',
     timestamps: false,
   });
 
