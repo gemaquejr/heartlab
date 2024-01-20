@@ -293,10 +293,10 @@ module.exports = {
       },
     ];
 
-    return queryInterface.bulkInsert('undergradStudents', undergrad, {});
+    return queryInterface.bulkInsert('undergrad_students', undergrad, {});
   },
 
   down: async (queryInterface, _Sequelize) => {
-    await queryInterface.bulkDelete('undergradStudents', null, {});
+    await queryInterface.bulkDelete('undergrad_students', null, {});
   }
 };
