@@ -4,6 +4,7 @@ import awardRouter from './awardRoute';
 import conferenceRouter from './conferenceRoute';
 import facultyRouter from './facultyRoute';
 import journalRouter from './journalRoute';
+import postGradRouter from './postgradRoute';
 
 export default {
     AlumniRouter,
@@ -11,5 +12,6 @@ export default {
     awardRouter,
     conferenceRouter,
     facultyRouter,
-    journalRouter
+    journalRouter,
+    postGradRouter
 };
