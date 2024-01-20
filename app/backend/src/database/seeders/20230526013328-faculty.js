@@ -35,10 +35,10 @@ module.exports = {
       },
     ];
 
-    return queryInterface.bulkInsert('faculty', faculty, {});
+    return queryInterface.bulkInsert('faculties', faculty, {});
   },
 
   down: async (queryInterface, _Sequelize) => {
-    await queryInterface.bulkDelete('faculty', null, {});
+    await queryInterface.bulkDelete('faculties', null, {});
   }
 };

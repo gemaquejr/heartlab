@@ -48,7 +48,7 @@ Faculty.init({
 }, {
     underscored: true,
     sequelize: db,
-    modelName: 'faculty',
+    modelName: 'faculties',
     timestamps: false,
   });
 
